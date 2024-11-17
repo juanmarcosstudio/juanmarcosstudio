@@ -1,3 +1,5 @@
+![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
+
 <h2 align="left">Hi 👋, I'm Jhon Mark</h2>
 <h3 align="left">A Passionate Web Developer from the Philippines</h3>
 
@@ -102,6 +104,19 @@
 </a>
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmarcosstudio&show_icons=true&locale=en&layout=compact" alt="juanmarcosstudio" /></p>
+<p>
+  <img 
+    align="left" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmarcosstudio&show_icons=true&locale=en&layout=compact&theme=dark" 
+    alt="juanmarcosstudio" 
+  />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanmarcosstudio&show_icons=true&locale=en" alt="juanmarcosstudio" /></p>
+<p>
+  &nbsp;
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=juanmarcosstudio&show_icons=true&locale=en&theme=dark" 
+    alt="juanmarcosstudio" 
+  />
+</p>
