@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jhon Mark</h1>
-<h3 align="center">A Passionate Frontend Developer from the Philippines</h3>
+<h1 align="left">Hi 👋, I'm Jhon Mark</h1>
+<h3 align="left">A Passionate Frontend Developer from the Philippines</h3>
 
 - 🌱 I’m currently learning **advanced JavaScript concepts, React.js, and improving my backend skills with Node.js and Express.**
 
